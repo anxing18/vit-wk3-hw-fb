@@ -1,0 +1,21 @@
+#header {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 3;
+    padding: 75px;
+    font-size: larger;
+}
+
+#main {
+    position: absolute;
+    top: 105px;
+    left: 585px;
+    background-color: white;
+    display:flex;
+    font-size: 45px;
+    align-items: center;
+    text-decoration-color: whitesmoke;
+    font-family:'Arial'; 
+}
